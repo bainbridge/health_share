@@ -4,7 +4,7 @@ Who I am
 -
 I'm a grad student living in Somerville, MA. I study public policy with a focus on health. 
 
-Before grad school, I worked as a health care research analyst at an economic consulting firm in Boston. During that time, I learned about the incentives & barriers that impact disease management, outcomes, & health system costs. This work was largely conducted from payer & delivery system perspectives. While in grad school, I have focused more specifically on patient & policymaker perspectives. 
+Before grad school, I worked as a health care research analyst at an economic consulting firm in Boston. During that time, I learned about the incentives & barriers that impact disease management, outcomes, & health system costs. This work was largely conducted from the perspective of payers & delivery systems. While in grad school, I have focused more specifically on patient & policymaker perspectives.
 
 My research interests include:
 
