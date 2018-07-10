@@ -20,7 +20,9 @@ I believe that universal health coverage, which
 
 1) is financed by a single payer and 
 
-2) prioritizes preventative health care and focuses on the social determinants of health, is the most appropriate way to tackle the public health issues facing the United States. 
+2) prioritizes preventative health care and focuses on the social determinants of health
+
+is the most appropriate way to tackle the public health issues facing the United States. 
 
 I am open to other ideas, though!
 
