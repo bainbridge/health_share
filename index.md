@@ -21,7 +21,7 @@ In my career, I want to examine health policy research & regulations with a crit
 
 Where I'm coming from
 -
-I believe that supporting universal health coverage -- which specifically 1) is financed by a single payer, 2) prioritizes preventative health care, & 3) focuses on the social determinants of health -- is the most appropriate way to tackle the public health issues facing the United States. I am open to other ideas, though!
+I believe that supporting universal health coverage -- which specifically 1) is financed by a single payer, 2) prioritizes preventative health care, & 3) focuses on the social determinants of health -- is the most appropriate way to tackle the public health issues faced by the United States. I am open to other ideas, though!
 
 Why it's personal
 -
