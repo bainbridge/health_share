@@ -4,16 +4,16 @@ Who I am
 -
 I'm a grad student living in Somerville, MA. I study public policy with a focus on health. 
 
-Before grad school, I worked as a health care research analyst at an economic consulting firm in Boston. During that time, I learned about the incentives & barriers that impact disease management, outcomes, & health system costs. This work was largely conducted from payer and delivery system perspectives. While in grad school, I have focused more specifically on patient and policymaker perspectives. 
+Before grad school, I worked as a health care research analyst at an economic consulting firm in Boston. During that time, I learned about the incentives & barriers that impact disease management, outcomes, & health system costs. This work was largely conducted from payer & delivery system perspectives. While in grad school, I have focused more specifically on patient & policymaker perspectives. 
 
 My research interests include:
 
 * Public perceptions of health care issues (e.g., universal health care coverage, substance use disorders)
-* Beneficiary churn and insurer incentives in multi-payer insurance systems
+* Beneficiary churn & insurer incentives in multi-payer insurance systems
 * Barriers to chronic disease self-management (e.g., the psychosocial burden of chronic illness)
 * Clinician-patient communication & knowledge transfers
 * Peer-to-peer health care (e.g., mutual help groups)
-* Accountable care models involving community health centers and community-based organizations
+* Accountable care models involving community health centers & community-based organizations
 
 Why you should read
 -
