@@ -1,6 +1,6 @@
 To do
 -
 
-* Edit post template
-* Change layout
-** ? add images to index, contact, about
+- [ ] Edit post template
+- [ ] Change layout
+- [ ] Add images to index, contact, about
