@@ -1,3 +1,17 @@
+Issue overview
+-
+
+*Intro to the issue*
+
+*Definitions*
+
+*Question / reason for this post*
+
+TL;DR
+-
+
+*One or two line summary of breakdown & impact
+
 Issue breakdown[^1]
 -
 
