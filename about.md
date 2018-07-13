@@ -2,6 +2,8 @@
 
 Who I am
 -
+![Pic](hk_victoria_peak.jpg)
+
 I'm a grad student living in Somerville, MA. I study public policy with a focus on health. 
 
 Before grad school, I worked as a health care research analyst at an economic consulting firm in Boston. During that time, I learned about the incentives & barriers that impact disease management, outcomes, & health system costs. This work was largely conducted from the perspectives of payers & delivery systems. While in grad school, I have focused more specifically on patient & policymaker perspectives.
@@ -26,5 +28,3 @@ I believe that supporting universal health coverage -- which specifically 1) is 
 Why it's personal
 -
 My perspectives are heavily informed by my experiences with major depressive disorder, migraines, & a nebulous pain disorder. I'll write about these experiences too!
-
-![Pic](hk_victoria_peak.jpg)
