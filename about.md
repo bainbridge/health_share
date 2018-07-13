@@ -26,3 +26,5 @@ I believe that supporting universal health coverage -- which specifically 1) is 
 Why it's personal
 -
 My perspectives are heavily informed by my experiences with major depressive disorder, migraines, & a nebulous pain disorder. I'll write about these experiences too!
+
+![Pic](hk_victoria_peak.jpg)
