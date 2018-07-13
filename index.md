@@ -6,6 +6,7 @@ Recent posts
 *Placeholder*
 
 [All posts](posts)
+-
 
 **Read about the blog [here](https://bainbridge.github.io/health_share/about_blog)!**
 
