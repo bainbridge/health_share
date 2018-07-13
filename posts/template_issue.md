@@ -22,7 +22,7 @@ Issue breakdown[^1]
 | *Logic step 3*  | *Evidence summary step 3*  | *More evidence step 3* |
 
 *Permalinks to static content (PDFs) in google drive folder, e.g.:
-[Stigma](https://drive.google.com/open?id=1dEK6VvSY-27L61MC_iEAonExqRo60q0e)
+[Stigma](https://drive.google.com/open?id=1dEK6VvSY-27L61MC_iEAonExqRo60q0e)*
 
 Why we should care
 -
