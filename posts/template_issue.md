@@ -13,8 +13,26 @@ Permalinks to static content (PDFs) in google drive folder, e.g.:
 Why we should care
 -
 
+*Brief explanation of the impact of this issue on society at large/specific subgroups*
+
+*Why should millenials care?*
+
+*Short-term impacts*
+
+*Long-term impacts*
+
 What we can do
 -
+
+*Elections? / Individuals to support? Donations, phone banking, canvassing, emailing?*
+
+*Any legislation in the works? Public comments, calling legislators, protests?*
+
+*Private sector actions -- boycotting, supporting?*
+
+*Interpersonal -- conversations to have, to avoid; things to consider?*
+
+*Social media -- things to tweet, post, avoid, report?*
 
 Notes
 - 
