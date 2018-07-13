@@ -16,7 +16,7 @@ Issue breakdown[^1]
 -
 
 | Idea  | Evidence | More evidence & detail |
-| ---           | ---           | --- |
+| :---           | :---           | :--- |
 | *Logic step 1*  | *Evidence summary step 1*  | *More evidence step 1* |
 | *Logic step 2*  | *Evidence summary step 2*  | *More evidence step 2* |
 | *Logic step 3*  | *Evidence summary step 3*  | *More evidence step 3* |
