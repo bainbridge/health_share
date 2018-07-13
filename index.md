@@ -8,10 +8,10 @@ Recent posts
 [All posts](posts)
 -
 
-**Read about the blog [here](https://bainbridge.github.io/health_share/about_blog)!**
+**Read about the blog [here](about_blog)!**
 
-**Read a little about me [here](https://bainbridge.github.io/health_share/about_me)!**
+**Read a little about me [here](about_me)!**
 
-**Get in touch [here](https://bainbridge.github.io/health_share/contact)!**
+**Get in touch [here](contact)!**
 
 *Thanks for visiting!*
