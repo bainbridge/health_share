@@ -28,4 +28,5 @@ Broader view
 Notes
 - 
 
-[^1]: This post is based solely on my personal experiences & 'anecdata' -- I'd love to know how your experiences compare with mine, or if this topic is new to you, how you felt about it before reading & how you think about it now. If you feel compelled, please send me a comment here & include the post title so I can figure out what you're referring to. Thank you!
+[^1]: This post is based solely on my personal experiences & 'anecdata.' If this topic is familiar to you, I'd love to know how your experiences compare with mine -- or if this topic is new to you, I'd love to know how this post has impacted how you think about the issue. If you feel compelled, please send me a comment [here](https://docs.google.com/forms/d/e/1FAIpQLSeTskpY1LoQss2fgXTcGZNyFY4XgTrWW49o4TzLLHdgkeVeOQ/viewform)!
+ (& please include the post title so I can figure out what you're referring to). Thank you!
