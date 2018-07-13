@@ -10,7 +10,7 @@ Issue overview
 TL;DR
 -
 
-*One or two line summary of breakdown & impact
+*One or two line summary of breakdown & impact*
 
 Issue breakdown[^1]
 -
