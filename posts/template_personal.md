@@ -18,7 +18,7 @@ Narrative[^1]
 *Explain experience -- first person, short paragraphs, inclusive language*
 
 *Permalinks to static content (PDFs) in google drive folder, e.g.:
-[Stigma](https://drive.google.com/open?id=1dEK6VvSY-27L61MC_iEAonExqRo60q0e)
+[Stigma](https://drive.google.com/open?id=1dEK6VvSY-27L61MC_iEAonExqRo60q0e)*
 
 Broader view
 -
