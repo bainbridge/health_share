@@ -12,7 +12,7 @@ TL;DR
 
 *One or two line summary of breakdown & impact*
 
-Issue breakdown[^1][^,2]
+Issue breakdown[^1]<sup>,</sup>[^2]
 -
 
 | Idea  | Evidence | More evidence & detail |
