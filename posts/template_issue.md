@@ -12,7 +12,7 @@ TL;DR
 
 *One or two line summary of breakdown & impact*
 
-Issue breakdown[^1]
+Issue breakdown[^1][^2]
 -
 
 | Idea  | Evidence | More evidence & detail |
@@ -52,3 +52,4 @@ Notes
 - 
 
 [^1]: The resources I use to develop these issue breakdowns are saved in PDF form in my [Sources](https://drive.google.com/open?id=1sILYzCXlqDw85Xy32z09_suQN8owSwi3) folder on Google Drive. I save PDFs in order to avoid the potential for dead links down the road. In the top right corner of page 1 of the PDF, you'll find the resource's URL. Please feel free to download & share these resources!
+[^2]: If you have questions or comments, please leave me a note [here](https://docs.google.com/forms/d/e/1FAIpQLSeTskpY1LoQss2fgXTcGZNyFY4XgTrWW49o4TzLLHdgkeVeOQ/viewform). I especially appreciate hearing from someone with expertise on this topic -- happy to update posts & credit you! Please include the post title so I can figure out what you’re referring to. Thanks!
