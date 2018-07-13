@@ -8,10 +8,10 @@ Recent posts
 [All posts](posts)
 -
 
-**[About the blog](about_blog)!**
+**[About the blog](about_blog)**
 
-**[About me](about_me)!**
+**[About me](about_me)**
 
-**[Get in touch](contact)!**
+**[Get in touch](contact)**
 
 *Thanks for visiting!*
