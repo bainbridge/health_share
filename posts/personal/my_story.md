@@ -16,16 +16,22 @@ I got curious. I started googling. I found a TED talk by [Andrew Solomon](http:/
 
 Depression, anxiety, and suicidality are extremely person-specific, so I am hesitant to generalize, BUT I will say that for many of us experiencing suicidal thoughts, these thoughts seem like Absolute Truths. Our brains trick us into thinking we're being objective. For me at least, this is why it's such a devastating blow when celebrities and people we idolize die by suicide... These deaths signal to my depression-addled mind that even life's most incredible highs -- like flying across the world to learn about wonderful cultures and people and food, creating your own fashion line, and inspiring millions of people -- can't make up for the lows. When I feel depressed, I fight so hard to reject that narrative. Sometimes it's easy. On days like today it's hard.
 
-I listened to Andrew Solomon share his profound wisdom. I decided I was ready to ask for help. I found a therapist through my health plan. He was *complete* garbage. He said and asked all the wrong things. I left appointments feeling worse and couldn't leave my bed for days afterward. 
+Back to my story -- 
 
-I gave up on therapists and tried to manage with the intuited, self-taught version of cognitive behavioral therapy that many of us have cobbled together on our own. At some point I confided in a few friends. I found that some had experienced depression too. I had NO idea that any of my beautiful, brilliant, ebullient friends were quietly suffering. It was simultaneously horrifying and comforting. One friend recommended their therapist, an LICSW who in turn had been recommended by another friend. But I didn't call her -- I was too skeptical and hurt by my damaging prior experiences with therapists. I spent the next year or so in limbo -- hiding depression by working too much, alternating between periods of 'high functioning' depression and complete debilitation. Eventually I realized I needed to give therapy another go.
+I listened to Andrew Solomon share his profound wisdom. I decided I was ready to ask for help. I found a therapist through my health plan. 
 
-I called the therapist my friend had recommended. She saw me immediately.
+He was *complete* garbage. He said and asked all the wrong things. I left appointments feeling worse and couldn't leave my bed for days afterward. I gave up on therapists and tried to manage with the intuited, self-taught version of cognitive behavioral therapy that many of us have cobbled together on our own. 
+
+At some point I confided in a few friends. I found that some had experienced depression too. I had NO idea that any of my beautiful, brilliant, ebullient friends were quietly suffering. It was simultaneously horrifying and comforting. One friend recommended their therapist, an LICSW who in turn had been recommended by another friend. But I didn't call her -- I was too skeptical and hurt by my damaging prior experiences with therapists. I spent the next year or so in limbo -- hiding depression by working too much, alternating between periods of 'high functioning' depression and complete debilitation. Eventually I realized I needed to give therapy another go. I called the therapist my friend had recommended. She saw me immediately.
 
 All I can say is that social workers are the absolute best. If you're a social worker: thank you for choosing that path. We appreciate you.
 
-The woman my friend recommended has been my therapist for the past couple years and has helped me more than I can even say. I'll forever be more resilient and more capable of self-care because of this relationship, and also because of the psychiatrist she connected me with and the SSRI he prescribed. Starting it was like flipping a switch in my brain. After a few weeks of adjusting the dosage, I woke up one day expecting the usual anxiety and depression spirals -- but they didn't happen. It's not always easy. I have ups and downs, but I'm here and I'm okay. 
+The woman my friend recommended has been my therapist for the past couple years and has helped me more than I can even say. I'll forever be more resilient and more capable of self-care because of this relationship.
+
+But also because of the psychiatrist she connected me with and the SSRI he prescribed. Starting it was like flipping a switch in my brain. After a few weeks of adjusting the dosage, I woke up one day expecting the usual anxiety and depression spirals -- but they didn't happen. 
+
+It's not always easy. I have ups and downs, but I'm here and I'm okay. 
 
 If you don't have a therapist but think you might benefit from having one, PLEASE start the search process. Finding a good one is not always as easy as getting a referral from a friend. It's sometimes very hard.
 
-That's what I'm working on now -- I'm in grad school studying behavioral health policy. I want to make it possible for everyone to get the care I got.  It's sometimes triggering but I love it. I wouldn't be able to do it (or anything) without my therapist or meds.
+That's what I'm working on now -- I'm in grad school studying behavioral health policy. I want to make it possible for everyone to get the care I got.  It's sometimes triggering, but I love it. I wouldn't be able to do it (or anything) without my therapist or meds.
