@@ -5,7 +5,7 @@ Recent posts
 
 *Placeholder*
 
-[All posts](posts/list)
+[All posts]
 -
 
 **[About the blog](about_blog)**
