@@ -1,6 +1,6 @@
 This blog covers my thoughts about health policy, health care delivery, & the culture around health in the US.
 
-[Posts](https://bainbridge.github.io/health_share/posts) fall into two categories: **Issue** & **Personal**.
+[Posts](https://bainbridge.github.io/health_share/posts/list) fall into two categories: **Issue** & **Personal**.
 
 **Issue** posts address topics that I have wondered about or been asked about. I first write a breakdown of the issue, with links to evidence / whatever current wisdom I have dug up. I then write about the issue's importance & how we can become engaged around this issue.
 
