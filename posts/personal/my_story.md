@@ -1,6 +1,6 @@
 **CW: depression, anxiety, suicidality**
 
-*Originally posted on [twitter](https://twitter.com/bainbrridge/status/1005166863637188614) following the deaths of Kate Spade and Anthony Bourdain**
+*Originally posted on [twitter](https://twitter.com/bainbrridge/status/1005166863637188614) following the deaths of Kate Spade and Anthony Bourdain*
 
 As a little kid, I often felt anxious. Especially at bedtime. I'd cry and tell my parents I couldn't go to sleep because I hadn't 'done something' yet -- something was unresolved but I didn't know what. I just felt guilty and full of dread. From elementary school onward, I stayed anxious. I also frequently dissociated from the things and people around me; I often felt disconnected and depersonalized. Not just alone, but null and void.
 
